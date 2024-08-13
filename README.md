@@ -6,7 +6,7 @@ I am a Computer Science student at Telkom University Surabaya, currently in my 6
 
 I am one of the participants of **Bangkit Academy Led by Google, Tokopedia, Gojek, & Traveloka** on the learning path [Mobile Development].
 
-I am also currently serving at Google Developer Student Club Telkom University Surabaya as Assistant Tech and Curriculum UI/UX Design [Google Developer Student Club Telkom University Surabaya](https://gdsc.community.dev/telkom-university-surabaya-ketintang-indonesia/).
+I am also currently serving at [Google Developer Student Club Telkom University Surabaya](https://gdsc.community.dev/telkom-university-surabaya-ketintang-indonesia/) as Assistant Tech and Curriculum UI/UX Design.
 
 If you are interested in getting to know me better, please follow my [LinkedIn](www.linkedin.com/in/muhammad-haikal-fikri-as-ad-028a67268) account.
 
