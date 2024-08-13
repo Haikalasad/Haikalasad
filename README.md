@@ -31,19 +31,17 @@ I am currently deepening my knowledge in **Frontend Development** as a mentee at
 - [LinkedIn](https://www.linkedin.com/in/muhammad-haikal-fikri-asad/)
 - [Email](haikal@student.telkomuniversity.ac.id)
 
-
-# GitHub Stats
-![Haikal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haikalasad&show_icons=true&theme=radical)
-
-# Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haikalasad&layout=compact&theme=radical)
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Haikalasad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Haikalasad&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 # GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Haikalasad&theme=radical)
-
-# Contribution Graph
-![Haikal's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Haikalasad&theme=react-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Haikalasad&theme=algolia)
 
 # Trophy Showcase
-![Trophy](https://github-profile-trophy.vercel.app/?username=Haikalasad&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Haikalasad&theme=algolia)
 
